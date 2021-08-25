@@ -1,0 +1,116 @@
+
+
+.logoimg{
+    margin-top: 0px;
+    margin-left: 15x;
+width: 60px; height: 60px;
+float: left;
+margin-right: 5px;
+position: absolute;
+}
+.titulo
+{	
+    
+    font-size: 26px;
+	color: rgb(255, 255, 255);
+	margin-top: 10px;
+	margin-left: 65px;
+	float: left;
+    font-family: 'Open Sans', sans-serif;
+}
+.icon-arrow-circle-left{
+    font-size: 55px;
+    color: aqua;
+    position: absolute;
+    float: right;
+    text-decoration: none;
+    right: 0;
+    margin-bottom: -60px;
+    margin-right: 10px;    
+    }
+
+header .logo p {
+	color: #ffffff;
+}
+body{
+    background: #000000;
+
+}
+#Iframe-Liason-Sheet {
+    max-width: 760px;
+    max-height: 1200px;
+
+    }
+    /* inner wrapper: make responsive */
+    .responsive-wrapper {
+    position: relative;
+    height: 0; /* gets height from padding-bottom setting */
+    -webkit-overflow-scrolling: touch;
+
+    }
+    .responsive-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    }
+    /* padding-bottom = h/w as a % */
+    .responsive-wrapper-wxh-760x1200 {
+    padding-bottom: 363.6364%;
+    margin-top: 80px;
+    }
+    .iframe-border {
+    border: 1px solid #000;
+    }
+    .center-block-horiz {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    }
+
+
+    /* ------------------------- */
+@media screen and (min-width: 1127px) {
+
+}
+@media screen and (max-width: 1110px) {
+
+}
+
+
+@media screen and (min-width: 1000px) {
+
+}
+
+@media screen and (max-width: 950px) {
+
+
+}
+
+
+@media screen and (max-width: 885px) {
+
+}
+@media screen and (max-width: 853px) {
+
+}
+@media screen and (max-width: 700px) {
+
+}
+@media screen and (max-width: 685px) {
+
+}
+@media screen and (max-width: 655px) {
+
+}
+
+@media screen and (max-width: 574px) {
+.titulo{
+ font-size: 20px;
+    margin-top: 0px;
+}
+}
+
