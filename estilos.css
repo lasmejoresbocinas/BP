@@ -514,9 +514,8 @@ footer .creado-por a:hover {text-decoration: underline;}
 	{
 	font-size: 14px;
 	}
-	.precio
-	{
-		font-size: 16px;
+	.btn-neon{
+		font-size: 14px;
 	}
 	.descripcion{
 		font-size: 7px;
