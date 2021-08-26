@@ -483,6 +483,11 @@ footer .creado-por a:hover {text-decoration: underline;}
 		margin-left: 7.6%;
 	}
 	
+	.precio
+	{
+		font-size: 10px;
+	}
+
 	header .barra-busqueda {
 		width: 100%;
 	}
