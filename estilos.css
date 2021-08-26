@@ -488,6 +488,10 @@ footer .creado-por a:hover {text-decoration: underline;}
 	}
 	.descripcion{
 		font-size: 7px;
+
+	}
+	.btn-neon{
+		font-size: 15.5px;
 	}
 }
 
