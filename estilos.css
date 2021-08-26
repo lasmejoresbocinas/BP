@@ -490,6 +490,9 @@ footer .creado-por a:hover {text-decoration: underline;}
 		font-size: 7px;
 
 	}
+.precio{
+	font-size: 15.5px;
+}
 	.btn-neon{
 		font-size: 15.5px;
 	}
@@ -514,6 +517,9 @@ footer .creado-por a:hover {text-decoration: underline;}
 	font-size: 14px;
 	}
 	.btn-neon{
+		font-size: 15px;
+	}
+	.precio{
 		font-size: 15px;
 	}
 	.descripcion{
